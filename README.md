@@ -13,3 +13,6 @@ Example tracking log use slack and express
 ## Trigger Error
 
 [http://localhost:3000/error](http://localhost:3000/error)
+
+## Author
+[https://anonystick.com](https://anonystick.com)

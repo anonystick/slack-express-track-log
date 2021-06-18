@@ -1,0 +1,33 @@
+{
+  "name": "express-error-slack",
+  "version": "1.0.0",
+  "description": "The library helps the system to send errors to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anonystick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-error-slack": "^2.0.0",
+    "request": "^2.88.2",
+    "send-error-slack": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonystick/send-error-slack.git"
+  },
+  "keywords": [
+    "send-error-slack",
+    "express",
+    "error",
+    "middleware",
+    "slack",
+    "anonystick"
+  ],
+  "bugs": {
+    "url": "https://github.com/anonystick/send-error-slack/issues"
+  },
+  "homepage": "https://github.com/anonystick/send-error-slack#readme"
+}
